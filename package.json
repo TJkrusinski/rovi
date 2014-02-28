@@ -1,0 +1,31 @@
+{
+  "name": "rovi",
+  "version": "0.0.0",
+  "description": "Rovi Cloud Services API Client (TV)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/rovi.git"
+  },
+  "keywords": [
+    "rovi",
+    "tv",
+    "client",
+    "rest",
+    "api",
+    "schedule"
+  ],
+  "author": "TJ Krusinski <tjkrus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/rovi/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/rovi",
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1"
+  }
+}
