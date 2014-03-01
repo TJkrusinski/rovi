@@ -17,7 +17,6 @@ autocomplete = autocomplete(key, secret);
 describe('autocomplete()', function(){
 	it('gets related items for a search', function(d){
 		var obj = {
-			endpoint: 'video',
 			entitytype: 'tvseries',
 			query: 'the+office'
 		};
