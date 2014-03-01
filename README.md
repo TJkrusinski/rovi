@@ -9,7 +9,7 @@ This is a WIP
 (The MIT License)
 
 ````
-Copyright (c) 2013 TJ Krusinski <tjkrus@gmail.com>;
+Copyright (c) 2014 TJ Krusinski <tjkrus@gmail.com>;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
