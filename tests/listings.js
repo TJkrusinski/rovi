@@ -25,7 +25,7 @@ describe('listing', function () {
 					done();
 			});
 		});
-		it('should return okay when given a zip code.', function testListingServicesSimple(done) {
+		it('should return okay when given a zip code', function testListingServicesSimple(done) {
 			listings.services(
 				'32601', // Postalcode for Downtown Gainesville, FL, US
 				function(err, data) {
@@ -34,7 +34,7 @@ describe('listing', function () {
 					done();
 			});
 		});
-		it('should return okay when given a zip code as a number.', function testListingServicesNumberPostalcode(done) {
+		it('should return okay when given a zip code as a number', function testListingServicesNumberPostalcode(done) {
 			listings.services(
 				32601, // Postalcode for Downtown Gainesville, FL, US
 				function(err, data) {
