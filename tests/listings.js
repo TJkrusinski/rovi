@@ -107,7 +107,7 @@ describe('listing', function () {
 		it('should return service details when provided an options object containing a serviceid, and a callback', function (done) {
 			listings.service({
 				serviceid: 20494,
-				function(err, data) {
+				callback: function(err, data) {
 					assert.isNull(err);
 					assert.ok(data);
 					dont();
@@ -125,13 +125,13 @@ describe('listing', function () {
 			listings.service('bad data', 'en-US', function(err, data){
 				assert.ok(err);
 				done();
-			})
+			});
 		});
 		it('should return an error when provided bad data for the locale', function (done) {
 			listings.service('20494', 'BADDATA', function(err, data){
 				assert.ok(err);
 				done();
-			})
+			});
 		});
 	});
 });
