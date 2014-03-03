@@ -16,9 +16,11 @@ autocomplete = autocomplete(key, secret);
 
 describe('autocomplete()', function(){
 	it('gets related items for a search', function(d){
+		this.timeout(5000);
 		var obj = {
 			entitytype: 'tvseries',
-			query: 'the+office'
+			query: 'the+office',
+			size: 20,
 		};
 
 		autocomplete(obj, function(err, data){
