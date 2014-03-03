@@ -1,0 +1,751 @@
+[
+	{
+		"id": 0,
+		"format": "original",
+		"width": -1,
+		"height": -1,
+		"category": "Original image or logo"
+	},
+	{
+		"id": 1,
+		"format": "JPG",
+		"width": 172,
+		"height": 128,
+		"category": "Image"
+	},
+	{
+		"id": 2,
+		"format": "JPG",
+		"width": 172,
+		"height": 128,
+		"category": "Logo"
+	},
+	{
+		"id": 5,
+		"format": "PNG",
+		"width": 64,
+		"height": 64,
+		"category": "Logo"
+	},
+	{
+		"id": 16,
+		"format": "JPG",
+		"width": 500,
+		"height": 500,
+		"category": "Image"
+	},
+	{
+		"id": 17,
+		"format": "JPG",
+		"width": 500,
+		"height": 500,
+		"category": "Logo"
+	},
+	{
+		"id": 24,
+		"format": "PNG",
+		"width": 75,
+		"height": 75,
+		"category": "Image"
+	},
+	{
+		"id": 25,
+		"format": "PNG",
+		"width": 75,
+		"height": 75,
+		"category": "Logo"
+	},
+	{
+		"id": 26,
+		"format": "PNG",
+		"width": 37,
+		"height": 50,
+		"category": "Image"
+	},
+	{
+		"id": 27,
+		"format": "PNG",
+		"width": 70,
+		"height": 100,
+		"category": "Logo"
+	},
+	{
+		"id": 28,
+		"format": "PNG",
+		"width": 37,
+		"height": 50,
+		"category": "Logo"
+	},
+	{
+		"id": 29,
+		"format": "PNG",
+		"width": 70,
+		"height": 100,
+		"category": "Image"
+	},
+	{
+		"id": 30,
+		"format": "PNG",
+		"width": 40,
+		"height": 40,
+		"category": "Image"
+	},
+	{
+		"id": 31,
+		"format": "PNG",
+		"width": 40,
+		"height": 40,
+		"category": "Logo"
+	},
+	{
+		"id": 32,
+		"format": "PNG",
+		"width": 120,
+		"height": 82,
+		"category": "Image"
+	},
+	{
+		"id": 33,
+		"format": "PNG",
+		"width": 120,
+		"height": 82,
+		"category": "Logo"
+	},
+	{
+		"id": 34,
+		"format": "PNG",
+		"width": 274,
+		"height": 190,
+		"category": "Image"
+	},
+	{
+		"id": 35,
+		"format": "PNG",
+		"width": 274,
+		"height": 190,
+		"category": "Logo"
+	},
+	{
+		"id": 36,
+		"format": "JPG",
+		"width": 140,
+		"height": 140,
+		"category": "Image"
+	},
+	{
+		"id": 37,
+		"format": "JPG",
+		"width": 140,
+		"height": 140,
+		"category": "Logo"
+	},
+	{
+		"id": 38,
+		"format": "JPG",
+		"width": 80,
+		"height": 60,
+		"category": "Image"
+	},
+	{
+		"id": 39,
+		"format": "JPG",
+		"width": 80,
+		"height": 60,
+		"category": "Logo"
+	},
+	{
+		"id": 40,
+		"format": "JPG",
+		"width": 246,
+		"height": 326,
+		"category": "Image"
+	},
+	{
+		"id": 41,
+		"format": "JPG",
+		"width": 246,
+		"height": 326,
+		"category": "Logo"
+	},
+	{
+		"id": 42,
+		"format": "JPG",
+		"width": 320,
+		"height": 180,
+		"category": "Image"
+	},
+	{
+		"id": 43,
+		"format": "JPG",
+		"width": 320,
+		"height": 180,
+		"category": "Logo"
+	},
+	{
+		"id": 44,
+		"format": "JPG",
+		"width": 250,
+		"height": 250,
+		"category": "Image"
+	},
+	{
+		"id": 45,
+		"format": "JPG",
+		"width": 250,
+		"height": 250,
+		"category": "Logo"
+	},
+	{
+		"id": 46,
+		"format": "JPG",
+		"width": 234,
+		"height": 117,
+		"category": "Image"
+	},
+	{
+		"id": 47,
+		"format": "JPG",
+		"width": 234,
+		"height": 117,
+		"category": "Logo"
+	},
+	{
+		"id": 48,
+		"format": "JPG",
+		"width": 116,
+		"height": 177,
+		"category": "Logo"
+	},
+	{
+		"id": 49,
+		"format": "JPG",
+		"width": 235,
+		"height": 358,
+		"category": "Image"
+	},
+	{
+		"id": 50,
+		"format": "JPG",
+		"width": 116,
+		"height": 177,
+		"category": "Image"
+	},
+	{
+		"id": 51,
+		"format": "JPG",
+		"width": 100,
+		"height": 100,
+		"category": "Image"
+	},
+	{
+		"id": 52,
+		"format": "JPG",
+		"width": 100,
+		"height": 100,
+		"category": "Logo"
+	},
+	{
+		"id": 53,
+		"format": "JPG",
+		"width": 40,
+		"height": 60,
+		"category": "Image"
+	},
+	{
+		"id": 54,
+		"format": "JPG",
+		"width": 40,
+		"height": 60,
+		"category": "Logo"
+	},
+	{
+		"id": 55,
+		"format": "JPG",
+		"width": 60,
+		"height": 90,
+		"category": "Image"
+	},
+	{
+		"id": 56,
+		"format": "JPG",
+		"width": 60,
+		"height": 90,
+		"category": "Logo"
+	},
+	{
+		"id": 57,
+		"format": "JPG",
+		"width": 410,
+		"height": 410,
+		"category": "Image"
+	},
+	{
+		"id": 58,
+		"format": "JPG",
+		"width": 410,
+		"height": 410,
+		"category": "Logo"
+	},
+	{
+		"id": 72,
+		"format": "JPG",
+		"width": 310,
+		"height": 470,
+		"category": "Image"
+	},
+	{
+		"id": 73,
+		"format": "JPG",
+		"width": 310,
+		"height": 470,
+		"category": "Logo"
+	},
+	{
+		"id": 74,
+		"format": "JPG",
+		"width": 155,
+		"height": 235,
+		"category": "Image"
+	},
+	{
+		"id": 75,
+		"format": "JPG",
+		"width": 155,
+		"height": 235,
+		"category": "Logo"
+	},
+	{
+		"id": 76,
+		"format": "JPG",
+		"width": 90,
+		"height": 135,
+		"category": "Image"
+	},
+	{
+		"id": 77,
+		"format": "JPG",
+		"width": 90,
+		"height": 135,
+		"category": "Logo"
+	},
+	{
+		"id": 78,
+		"format": "JPG",
+		"width": 80,
+		"height": 120,
+		"category": "Image"
+	},
+	{
+		"id": 79,
+		"format": "JPG",
+		"width": 80,
+		"height": 120,
+		"category": "Logo"
+	},
+	{
+		"id": 80,
+		"format": "JPG",
+		"width": 60,
+		"height": 60,
+		"category": "Image"
+	},
+	{
+		"id": 81,
+		"format": "JPG",
+		"width": 60,
+		"height": 60,
+		"category": "Logo"
+	},
+	{
+		"id": 82,
+		"format": "JPG",
+		"width": 600,
+		"height": 800,
+		"category": "Image"
+	},
+	{
+		"id": 83,
+		"format": "JPG",
+		"width": 600,
+		"height": 800,
+		"category": "Logo"
+	},
+	{
+		"id": 84,
+		"format": "JPG",
+		"width": 164,
+		"height": 240,
+		"category": "Image"
+	},
+	{
+		"id": 85,
+		"format": "JPG",
+		"width": 164,
+		"height": 240,
+		"category": "Logo"
+	},
+	{
+		"id": 86,
+		"format": "JPG",
+		"width": 70,
+		"height": 70,
+		"category": "Image"
+	},
+	{
+		"id": 87,
+		"format": "JPG",
+		"width": 70,
+		"height": 70,
+		"category": "Logo"
+	},
+	{
+		"id": 88,
+		"format": "JPG",
+		"width": 247,
+		"height": 131,
+		"category": "Image"
+	},
+	{
+		"id": 89,
+		"format": "JPG",
+		"width": 247,
+		"height": 131,
+		"category": "Logo"
+	},
+	{
+		"id": 90,
+		"format": "JPG",
+		"width": 240,
+		"height": 320,
+		"category": "Image"
+	},
+	{
+		"id": 91,
+		"format": "JPG",
+		"width": 240,
+		"height": 320,
+		"category": "Logo"
+	},
+	{
+		"id": 92,
+		"format": "JPG",
+		"width": 320,
+		"height": 240,
+		"category": "Image"
+	},
+	{
+		"id": 93,
+		"format": "JPG",
+		"width": 320,
+		"height": 240,
+		"category": "Logo"
+	},
+	{
+		"id": 94,
+		"format": "JPG",
+		"width": 480,
+		"height": 800,
+		"category": "Image"
+	},
+	{
+		"id": 95,
+		"format": "JPG",
+		"width": 480,
+		"height": 800,
+		"category": "Logo"
+	},
+	{
+		"id": 96,
+		"format": "JPG",
+		"width": 800,
+		"height": 480,
+		"category": "Image"
+	},
+	{
+		"id": 97,
+		"format": "JPG",
+		"width": 800,
+		"height": 480,
+		"category": "Logo"
+	},
+	{
+		"id": 98,
+		"format": "JPG",
+		"width": 240,
+		"height": 240,
+		"category": "Image"
+	},
+	{
+		"id": 99,
+		"format": "JPG",
+		"width": 240,
+		"height": 240,
+		"category": "Logo"
+	},
+	{
+		"id": 102,
+		"format": "PNG",
+		"width": 90,
+		"height": 90,
+		"category": "Image"
+	},
+	{
+		"id": 103,
+		"format": "PNG",
+		"width": 90,
+		"height": 90,
+		"category": "Logo"
+	},
+	{
+		"id": 104,
+		"format": "PNG",
+		"width": 385,
+		"height": 249,
+		"category": "Image"
+	},
+	{
+		"id": 105,
+		"format": "PNG",
+		"width": 385,
+		"height": 249,
+		"category": "Logo"
+	},
+	{
+		"id": 108,
+		"format": "JPG",
+		"width": 584,
+		"height": 800,
+		"category": "Image"
+	},
+	{
+		"id": 109,
+		"format": "JPG",
+		"width": 584,
+		"height": 800,
+		"category": "Logo"
+	},
+	{
+		"id": 110,
+		"format": "JPG",
+		"width": 75,
+		"height": -1,
+		"category": "Image"
+	},
+	{
+		"id": 111,
+		"format": "JPG",
+		"width": 250,
+		"height": -1,
+		"category": "Image"
+	},
+	{
+		"id": 112,
+		"format": "JPG",
+		"width": 500,
+		"height": -1,
+		"category": "Image"
+	},
+	{
+		"id": 113,
+		"format": "JPG",
+		"width": 1080,
+		"height": -1,
+		"category": "Image"
+	},
+	{
+		"id": 115,
+		"format": "JPG",
+		"width": 90,
+		"height": 90,
+		"category": "Image"
+	},
+	{
+		"id": 116,
+		"format": "JPG",
+		"width": 90,
+		"height": 90,
+		"category": "Logo"
+	},
+	{
+		"id": 117,
+		"format": "JPG",
+		"width": 385,
+		"height": 249,
+		"category": "Image"
+	},
+	{
+		"id": 118,
+		"format": "JPG",
+		"width": 385,
+		"height": 249,
+		"category": "Logo"
+	},
+	{
+		"id": 119,
+		"format": "JPG",
+		"width": 75,
+		"height": 75,
+		"category": "Image"
+	},
+	{
+		"id": 120,
+		"format": "JPG",
+		"width": 75,
+		"height": 75,
+		"category": "Logo"
+	},
+	{
+		"id": 121,
+		"format": "JPG",
+		"width": 40,
+		"height": 40,
+		"category": "Image"
+	},
+	{
+		"id": 122,
+		"format": "JPG",
+		"width": 40,
+		"height": 40,
+		"category": "Logo"
+	},
+	{
+		"id": 123,
+		"format": "JPG",
+		"width": 444,
+		"height": 444,
+		"category": "Image"
+	},
+	{
+		"id": 124,
+		"format": "JPG",
+		"width": 444,
+		"height": 444,
+		"category": "Logo"
+	},
+	{
+		"id": 125,
+		"format": "JPG",
+		"width": 45,
+		"height": 60,
+		"category": "Image"
+	},
+	{
+		"id": 126,
+		"format": "JPG",
+		"width": 75,
+		"height": 100,
+		"category": "Image"
+	},
+	{
+		"id": 127,
+		"format": "JPG",
+		"width": -1,
+		"height": 250,
+		"category": "Image"
+	},
+	{
+		"id": 128,
+		"format": "JPG",
+		"width": -1,
+		"height": 250,
+		"category": "Logo"
+	},
+	{
+		"id": 129,
+		"format": "JPG",
+		"width": -1,
+		"height": 200,
+		"category": "Image"
+	},
+	{
+		"id": 130,
+		"format": "JPG",
+		"width": -1,
+		"height": 200,
+		"category": "Logo"
+	},
+	{
+		"id": 131,
+		"format": "PNG",
+		"width": 436,
+		"height": 236,
+		"category": "Image"
+	},
+	{
+		"id": 132,
+		"format": "PNG",
+		"width": 436,
+		"height": 236,
+		"category": "Logo"
+	},
+	{
+		"id": 133,
+		"format": "JPG",
+		"width": 640,
+		"height": 480,
+		"category": "Image"
+	},
+	{
+		"id": 134,
+		"format": "JPG",
+		"width": 640,
+		"height": 480,
+		"category": "Logo"
+	},
+	{
+		"id": 135,
+		"format": "JPG",
+		"width": 624,
+		"height": 936,
+		"category": "Image"
+	},
+	{
+		"id": 136,
+		"format": "JPG",
+		"width": 624,
+		"height": 936,
+		"category": "Logo"
+	},
+	{
+		"id": 137,
+		"format": "JPG",
+		"width": 150,
+		"height": 250,
+		"category": "Image"
+	},
+	{
+		"id": 138,
+		"format": "JPG",
+		"width": 150,
+		"height": 250,
+		"category": "Logo"
+	},
+	{
+		"id": 139,
+		"format": "JPG",
+		"width": 580,
+		"height": 435,
+		"category": "Image"
+	},
+	{
+		"id": 140,
+		"format": "JPG",
+		"width": 580,
+		"height": 435,
+		"category": "Logo"
+	},
+	{
+		"id": 141,
+		"format": "JPG",
+		"width": 318,
+		"height": 460,
+		"category": "Image"
+	},
+	{
+		"id": 142,
+		"format": "JPG",
+		"width": 318,
+		"height": 460,
+		"category": "Logo"
+	}
+]

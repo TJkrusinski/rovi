@@ -51,8 +51,19 @@ describe('listing', function () {
 					done();
 			});
 		});
-		// TODO:
-		it('should, in the future, be able to take a an object containing the correct arguments');
+		it('should be able to take a an object containing the correct arguments', function (testListingServicesOptionsObject){
+			listings.services({
+				postalcode: 90210,
+				locale: 'en-US',
+				countrycode: 'US',
+				msoid: 25,
+				callback: function(err, data) {
+					assert.isNull(err);
+					assert.ok(data);
+					done();
+				}
+			});
+		});
 		it('should return an error when given an invalid object as an argument', function testListingServiceFailOnInvalidOnject(done) {
 			listings.services(
 				{zipcode: '32601'}, // 'Illegal'
