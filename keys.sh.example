@@ -1,0 +1,10 @@
+# auto complete
+export ROVI_AUTO_KEY=""
+export ROVI_ATUO_SECRET=""
+
+# metadata and search
+export ROVI_META_KEY=""
+export ROVI_META_SECRET=""
+
+# TV Listing
+export ROVI_TV_KEY=""
