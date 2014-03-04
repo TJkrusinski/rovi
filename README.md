@@ -4,6 +4,14 @@ Rovi Cloud Services API Client
 
 This is a WIP
 
+## Running Tests
+
+To run the test suite, you'll want to add your keys to the `keys.sh.example` and then move it to `keys.sh`, then run:
+
+````
+$ npm test
+````
+
 ## License
 
 (The MIT License)

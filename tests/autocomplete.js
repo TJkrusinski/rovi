@@ -1,14 +1,12 @@
 'use strict';
 
-var key = process.env.ROVI_KEY;
-var secret = process.env.ROVI_SECRET;
+var key = process.env.ROVI_AUTO_KEY;
+var secret = process.env.ROVI_AUTO_SECRET;
 var assert = require('chai').assert;
 var autocomplete = require('../lib/autocomplete.js');
 
 if (!key) {
 	console.log('No key or secret set, please set your API key keys');
-	console.log('$ export ROVI_KEY=yourkey');
-	console.log('$ export ROVI_SECRET=yoursecret');
 	process.exit();
 };
 
