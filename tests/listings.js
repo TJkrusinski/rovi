@@ -1,11 +1,11 @@
 'use strict';
-var key = process.env.ROVI_LISTINGS_KEY;
+
+var key = process.env.ROVI_TV_KEY;
+
 if (!key) {
 	console.log('No key set; please set your API key');
-	console.log('$ export ROVI_LISTINGS_KEY=yourkey');
 	process.exit();
-}
-
+};
 
 var assert = require('chai').assert;
 var client = require('../lib/request.js')(key, null);
