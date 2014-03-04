@@ -5,7 +5,7 @@ var secret = process.env.ROVI_AUTO_SECRET;
 var assert = require('chai').assert;
 var autocomplete = require('../lib/autocomplete.js');
 
-if (!key) {
+if (!key || !secret) {
 	console.log('No key or secret set, please set your API key keys');
 	process.exit();
 };
