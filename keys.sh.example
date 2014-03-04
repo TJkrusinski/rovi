@@ -1,6 +1,6 @@
 # auto complete
 export ROVI_AUTO_KEY=""
-export ROVI_ATUO_SECRET=""
+export ROVI_AUTO_SECRET=""
 
 # metadata and search
 export ROVI_META_KEY=""
