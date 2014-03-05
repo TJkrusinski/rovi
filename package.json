@@ -1,6 +1,6 @@
 {
   "name": "rovi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Rovi Cloud Services API Client (TV)",
   "main": "index.js",
   "scripts": {
