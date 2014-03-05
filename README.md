@@ -4,6 +4,29 @@ Rovi Cloud Services API Client
 
 This is a WIP
 
+## API
+
+### Video
+
+````javascript
+
+var rovi = require('rovi');
+
+var metadata = rovi.metadata(key, secret);
+
+metadata.video.info({video: 'The office'}, function(err, data){
+	// err == null
+	// data == object
+});
+
+````
+
+#### Video Methods
+
+* `metadata.video.info(searchObj, callback)`
+	* Get info about a show
+	* Accepts a search Object
+
 ## Running Tests
 
 To run the test suite, you'll want to add your keys to the `keys.sh.example` and then move it to `keys.sh`, then run:

@@ -27,5 +27,5 @@ exports.listings = function(key, secret) {
  *	@param {String} secret
  */
 exports.metadata = function(key, secret) {
-	return require('./lib/metadata.js')(key, secret);
+	return require('./lib/metadata/index.js')(key, secret);
 };

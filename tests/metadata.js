@@ -9,12 +9,23 @@ var assert = require('chai').assert;
 metadata = metadata(key, secret);
 
 describe('meta data and search', function(){
+	var video = metadata.video;
+
 	describe('', function(){
 		it('checks for existance', function(){
-			assert.ok(metadata.Search);
-			assert.ok(metadata.Video);
+			assert.ok(metadata.video);
 		});
 	});
 
+	describe('video#info()', function(){
+		it('gets info for a show', function(d){
+			video.info({video:'the office'}, function(err, data){
+				console.log(data);
+				assert.isNull(err);
+				assert.isObject(data);
+				d();
+			});	
+		});
+	});
 	
 });
