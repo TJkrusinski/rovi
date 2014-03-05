@@ -10,10 +10,26 @@ metadata = metadata(key, secret);
 
 describe('meta data and search', function(){
 	var video = metadata.video;
+	var search = metadata.search;
 
 	describe('', function(){
 		it('checks for existance', function(){
 			assert.ok(metadata.video);
+		});
+	});
+
+	describe('search#info()', function(){
+		it('searches for a show', function(d){
+			var query = {
+				entitytype: 'tvseries',
+				query: 'the office'
+			};
+			
+			search.search('video', query, function(err, data){
+				assert.isNull(err);
+				assert.isObject(data);
+				d();
+			});	
 		});
 	});
 
